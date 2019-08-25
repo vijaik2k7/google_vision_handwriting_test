@@ -1,11 +1,11 @@
 # Testing Google Cloud Vision API On Handwritten Documents
-A quick exploratory test using Google Cloud's Vision API to understand performance on three different types of handwritten documents:
+Reference examples using Google Cloud's Vision API to understand performance on three different types of handwritten documents:
 
 Overall, the API does a pretty good job with handwritten text that are well formatted, clean and easy to read to the human eye. Even the ones that are smudgy, too cursive or usually difficult to read are returned with a decent accuracy although with a lower confidence and some errors in the predictions. There could be smarter ways to handle some of these errors (like looking for the closest meaningful English word etc. depending on the use case). Is there a specific type of handwriting that you might be interested in for the API?
  
 ### Tough Style:
  
-
+![Tough Style](tough_style.jpg)
  
 Output – Confidence – 0.879
  
@@ -14,7 +14,7 @@ My mother , Jancy Delulty , always told her daughted as " Dand marry Chim until 
  
 ### Tough Style 2:
  
-
+![Tough Style 2](tough_style2.jpg)
  
 Output: Confidence score – 0.8999
  
@@ -22,7 +22,7 @@ Start here . Politics is a contest os te napsative not a aselndent character , t
  
 ### Medium Style:
  
-
+![Medium Style](medium_style.jpg)
  
 Output: Confidence – 0.97
  
@@ -30,7 +30,7 @@ Reading a handwritten article about hand writing , in a 21st century magazine , 
  
 ### Easy Style:
  
-
+![Easy Style](easy_style.jpg)
  
 Confidence – 0.92
  
@@ -38,7 +38,7 @@ It has shape - Shifted sevesal times , completely Throwing me off - track . efte
  
 ### Easy Style 2:
  
-
+![Easy Style 2](easy_style2.jpg)
  
 Confidence – 0.977
  
