@@ -1,8 +1,9 @@
 # Testing Google Cloud Vision API On Handwritten Documents
 Reference examples using Google Cloud's Vision API to understand performance on three different types of handwritten documents:
 
-Overall, the API does a pretty good job with handwritten text that are well formatted, clean and easy to read to the human eye. Even the ones that are smudgy, too cursive or usually difficult to read are returned with a decent accuracy although with a lower confidence and some errors in the predictions. There could be smarter ways to handle some of these errors (like looking for the closest meaningful English word etc. depending on the use case). Is there a specific type of handwriting that you might be interested in for the API?
- 
+## Takeaway
+Overall, the API does a pretty good job with handwritten text that are well formatted, clean and easy to read to the human eye. Even the ones that are smudgy, too cursive or usually difficult to read are returned with a decent accuracy although with a lower confidence and some errors in the predictions. There could be smarter ways to handle some of these errors (like looking for the closest meaningful English word etc. depending on the use case). 
+
 ### Tough Style:
  
 ![Tough Style](tough_style.jpg)
