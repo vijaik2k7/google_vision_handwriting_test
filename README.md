@@ -30,7 +30,7 @@ Reading a handwritten article about hand writing , in a 21st century magazine , 
  
 ### Easy Style:
  
-![Easy Style](easy_style.jpg)
+![Easy Style](easy_hw.jpg)
  
 Confidence – 0.92
  
@@ -38,7 +38,7 @@ It has shape - Shifted sevesal times , completely Throwing me off - track . efte
  
 ### Easy Style 2:
  
-![Easy Style 2](easy_style2.jpg)
+![Easy Style 2](easy_hw2.jpg)
  
 Confidence – 0.977
  
