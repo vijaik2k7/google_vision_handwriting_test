@@ -33,16 +33,16 @@ Reading a handwritten article about hand writing , in a 21st century magazine , 
  
 ![Easy Style](easy_hw.jpg)
  
-#### Output: API Confidence Score – 0.92
- 
-It has shape - Shifted sevesal times , completely Throwing me off - track . efter a lot of observa tion , I have réalised that my dream has not morphed into something else . It is the same it was , but I have been defining it wrongly all these years . My dream is not to be a freelance Willustratoč as a freelance writes . My real dream is to live and work entirely on my Terms
- 
-### Easy Style 2:
- 
-![Easy Style 2](easy_hw2.jpg)
- 
 #### Output: API Confidence Score – 0.977
  
 Hello , everyone ! I made a Reddit account solely for the purpose of posting this . I often get compliments on my handwriting in school and I ' m curious to see what this thread thinks . I guess I ' ll write a few more lines so that you all have more content to evaluate . I ' m writing these words as they come to mind , so don ' t judge me for any grammatical errors . I hope this post doesn ' t get zero upvotes , that would be embarrassing . Thanks !
 
 Performance evaluated based on output confidence scores and manual inspection and validation
+ 
+### Easy Style 2:
+ 
+![Easy Style 2](easy_hw2.jpg)
+ 
+#### Output: API Confidence Score – 0.92
+ 
+It has shape - Shifted sevesal times , completely Throwing me off - track . efter a lot of observa tion , I have réalised that my dream has not morphed into something else . It is the same it was , but I have been defining it wrongly all these years . My dream is not to be a freelance Willustratoč as a freelance writes . My real dream is to live and work entirely on my Terms
